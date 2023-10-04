@@ -6,11 +6,12 @@ from cvzone.HandTrackingModule import HandDetector
 
 OFFSET = 30
 IMG_SIZE = 300
+NUMBER_OF_SIGNS = 4 # since i made it recognise 4 digits/signs
 
 capture = cv2.VideoCapture(0) #Use the webcam
 detector = HandDetector(maxHands=1) #Detector object for 1 hand & 1 hand only
 
-counter = [0]*4 # empty list with 4 elements to keep track of the number of images saved
+counter = [0]*NUMBER_OF_SIGNS # empty list with 4 elements to keep track of the number of images saved
 fNumber = 0 # folder number, var to keep track of how many images we already saved
 folder = 'Data/'+str(fNumber)
 

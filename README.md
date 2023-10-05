@@ -1,5 +1,5 @@
 ## About:
-A custom hand gesture recognition model, built using cvzone and MediaPipe in Python; I applied it to recognise digits in the Arabic sign language ArSL.
+A custom hand gesture recognition model, built using cvzone and MediaPipe in Python; I applied it to recognise digits in the Arabic sign language ArSL, the approach used here is to record the signs we wanna train on, and save a cropped image of just the hand with landmarks on it, and then classify them later.
 
 Here's a youtube video explaining the digits in ArSL: 
 

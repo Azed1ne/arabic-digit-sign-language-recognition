@@ -1,7 +1,9 @@
 ## About:
 A custom hand gesture recognition model, built using cvzone in Python; I applied it to recognise digits in the Arabic sign language ArSL.
 
-Here's a youtube video explaining the digits in ArSL: https://www.youtube.com/watch?v=2Zraggt1tVs&ab_channel=AljazeeraMediaLibraryمكتبةالجزيرةالمرئية
+Here's a youtube video explaining the digits in ArSL: 
+[![Thumbnail](https://img.youtube.com/vi/2Zraggt1tVs/0.jpg)](https://www.youtube.com/watch?v=2Zraggt1tVs)
+
 
 ## Files:
 The files in the 'Model' folder contain 2 models trained on the same dataset to recognise the digits: 1 to 4 in Arabic Sign Language [ArSL].

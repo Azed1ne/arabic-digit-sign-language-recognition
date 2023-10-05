@@ -2,6 +2,7 @@
 A custom hand gesture recognition model, built using cvzone in Python; I applied it to recognise digits in the Arabic sign language ArSL.
 
 Here's a youtube video explaining the digits in ArSL: 
+
 [![Thumbnail](https://img.youtube.com/vi/2Zraggt1tVs/0.jpg)](https://www.youtube.com/watch?v=2Zraggt1tVs)
 
 

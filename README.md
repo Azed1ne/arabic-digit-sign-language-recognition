@@ -20,4 +20,8 @@ Run the 'test.py' folder, a window will show your webcam and you can start doing
 
 5- Label the classes and upload your dataset here: ![image](https://github.com/Azed1ne/arabic-digit-sign-language-recognition/assets/123888749/25ce1857-9492-4c60-b3d4-bc74d496e8b3).
 
-6- Click on **Train Model** and wait,  the default parameters in the advanced section are good for small dataset
+6- Click on **Train Model** and wait, the default parameters in the advanced section are good for a small dataset, tho you could play with the number of epochs for better accuracy ( higher usually is better ).
+
+7- Export the model, save it to the 'Model' folder.
+
+8- Run test.py and see the performance.
